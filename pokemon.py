@@ -1,6 +1,5 @@
 import plotly.offline as pyo
 import plotly.graph_objs as go
-import random
 import pandas as pd
 
 pyo.init_notebook_mode()
